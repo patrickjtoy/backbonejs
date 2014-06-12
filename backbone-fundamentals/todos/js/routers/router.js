@@ -5,7 +5,7 @@
 
 var Workspace = Backbone.Router.extend({
 	routes: {
-		'filter': 'setFilter'
+		'*filter': 'setFilter'
 	},
 
 	setFilter: function( param ) {
