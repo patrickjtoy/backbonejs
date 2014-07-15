@@ -1,2 +1,5 @@
 userManager/.htaccess
 userManager/vendor/
+backbone-fundamentals/book_library/node_modules
+backbone-fundamentals/book_library/package.json
+backbone-fundamentals/book_library/server.js
